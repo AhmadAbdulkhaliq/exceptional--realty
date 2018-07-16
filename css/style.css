@@ -150,11 +150,7 @@ iframe {
 /*/////// MEDIA ////////*/
 
 img,
-video,
-audio,
-iframe,
-table,
-form {
+video,audio,iframe,table,form {
   width: 100%;
   /* IE */
   max-width: 100%;
@@ -224,7 +220,7 @@ form {
 #social {
   position: fixed;
   top: 163px;
-  right: 20px;
+  right: 40px;
   width: 40px;
   z-index: 2;
 }
